@@ -9,6 +9,7 @@ Build a model and an interface to classify traffic signs (GTSRB dataset).
 
 ## Additional comments
 
+This is a additional comment 
 Nothing yet.
 
 ## References
