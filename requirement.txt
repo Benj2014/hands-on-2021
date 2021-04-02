@@ -1,0 +1,23 @@
+Package and libraries to install in the creation of the environment to ensure the code works.
+
+tensorflow     #Deep learnin package 
+keras          #Deep learning / ease the use of tensorflow in perfoming deep learnin model
+pandas         #Managing dataframe
+seaborn        #more sophiticated graph
+matplolib      # graph
+scikit-learn   # machine learning  
+numpy          # matrix computation
+dash           # for the image creation
+plotly         # for visualization
+pillow         # for reading the ppm format of the images
+glob           # searching acces path
+pathlib
+yaml           #for file configuration
+base64         #for images transformation in base64
+os             #operation system
+pickle         #fir saving the SVM model
+
+
+# By defaut keras is automacally installed when we install tensorflow
+# And pandas appears to be automatically installed when install seaborn
+#It appear tha seaborn preinstalls matplotlib too
